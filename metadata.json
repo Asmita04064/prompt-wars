@@ -1,0 +1,6 @@
+{
+  "name": "VoteSmart AI",
+  "description": "An AI-powered election education platform designed to improve voter awareness, trust, and participation through interactive learning and smart tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Chatbot", "Voter Education", "Election Simulation"]
+}
